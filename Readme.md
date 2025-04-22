@@ -1,14 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shivani Joshi</h1>
-<h3 align="center">I wanna grow in python and related advanced technologies</h3>
+<h3 align="center">Passionate about Data, DevOps, Cloud, and Scalable Software Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=assign-stone&label=Profile%20views&color=0e75b6&style=flat" alt="assign-stone" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=assign-stone&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-- 🌱 I’m currently pursuing **Big Data Analytics**
+- 🎓 M.Tech in **Big Data Analytics** from SDSF, DAVV  
+- 👩‍💻 Analyst at **Capgemini** | Ex-Intern at MoE IKS Center  
+- 🔧 Skilled in **Java, Python, Spring Boot, Docker, Kubernetes, AWS, ML**  
+- 🚀 Built scalable apps using **microservices, REST APIs, JWT, CI/CD pipelines**  
+- 📊 Interested in **data engineering, software development, and cloud architecture**  
+- 📫 Reach me: **joshi.shivani.3892@gmail.com** | [LinkedIn](https://www.linkedin.com/in/shivanijoshi38)  
+- ⚡ Fun Fact: **I guess I'm Neoteric 🌟**
 
-- 👯 I’m looking to collaborate on **ML projects on supervised learning**
+<!--
+Just a little intro that shows up on my GitHub profile :)
+-->
 
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **shivanijoshiv.v@gmail.com**
-
-- ⚡ Fun fact **I guess I am Neoteric**
