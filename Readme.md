@@ -73,8 +73,8 @@
 Automated build → containerization → deployment to AWS EKS using Jenkins.
 
 <p align="center">
-  <a href="https://github.com/assign-stone/git-docker-k8s-terraform-aws-jenkins">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=assign-stone&repo=git-docker-k8s-terraform-aws-jenkins&theme=tokyonight#gh-dark-mode-only" />
+  <a href="https://github.com/assign-stone/git-docker-k8s-terraform-aws-jenkins-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=assign-stone&repo=git-docker-k8s-terraform-aws-jenkins-project&theme=tokyonight#gh-dark-mode-only" />
     
   </a>
 </p>
@@ -114,8 +114,8 @@ Demonstrates cost-efficient, secure, and fault-tolerant architecture.
 Work in **data preprocessing, feature engineering, and ML modeling** using Scikit-learn + Pandas.
 
 <p align="center">
-  <a href="https://github.com/assign-stone/data-analytics-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=assign-stone&repo=data-analytics-projects&theme=tokyonight#gh-dark-mode-only" />
+  <a href="https://github.com/assign-stone/projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=assign-stone&repo=projects&theme=tokyonight#gh-dark-mode-only" />
    
   </a>
 </p>
