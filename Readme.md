@@ -75,7 +75,7 @@ Automated build → containerization → deployment to AWS EKS using Jenkins.
 <p align="center">
   <a href="https://github.com/assign-stone/git-docker-k8s-terraform-aws-jenkins">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=assign-stone&repo=git-docker-k8s-terraform-aws-jenkins&theme=tokyonight#gh-dark-mode-only" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=assign-stone&repo=git-docker-k8s-terraform-aws-jenkins&theme=default#gh-light-mode-only" />
+    
   </a>
 </p>
 
@@ -89,7 +89,7 @@ Includes Prometheus + Grafana for observability and scalability testing.
 <p align="center">
   <a href="https://github.com/assign-stone/nomad-terraform-cluster">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=assign-stone&repo=nomad-terraform-cluster&theme=tokyonight#gh-dark-mode-only" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=assign-stone&repo=nomad-terraform-cluster&theme=default#gh-light-mode-only" />
+    
   </a>
 </p>
 
@@ -103,7 +103,7 @@ Demonstrates cost-efficient, secure, and fault-tolerant architecture.
 <p align="center">
   <a href="https://github.com/assign-stone/hosting-static-website-ec2-s3">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=assign-stone&repo=hosting-static-website-ec2-s3&theme=tokyonight#gh-dark-mode-only" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=assign-stone&repo=hosting-static-website-ec2-s3&theme=default#gh-light-mode-only" />
+    
   </a>
 </p>
 
@@ -116,7 +116,7 @@ Work in **data preprocessing, feature engineering, and ML modeling** using Sciki
 <p align="center">
   <a href="https://github.com/assign-stone/data-analytics-projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=assign-stone&repo=data-analytics-projects&theme=tokyonight#gh-dark-mode-only" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=assign-stone&repo=data-analytics-projects&theme=default#gh-light-mode-only" />
+   
   </a>
 </p>
 
@@ -126,9 +126,9 @@ Work in **data preprocessing, feature engineering, and ML modeling** using Sciki
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=assign-stone&show_icons=true&theme=tokyonight#gh-dark-mode-only" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=assign-stone&show_icons=true&theme=default#gh-light-mode-only" width="48%"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=assign-stone&theme=tokyonight#gh-dark-mode-only" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=assign-stone&theme=default#gh-light-mode-only" width="48%"/>
+  
 </p>
 
 ---
