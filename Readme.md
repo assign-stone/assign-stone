@@ -1,4 +1,3 @@
-```{"variant":"standard","title":"Responsive Dark-Mode GitHub Profile README (Cloud + DevOps + Data)","id":"55683"}
 <h1 align="center">☁️ Hi, I'm Shivani Joshi</h1>
 <h3 align="center">Cloud | DevOps | Data Engineering | Automation Enthusiast</h3>
 
@@ -10,8 +9,8 @@
 
 ### 👩‍💻 About Me
 
-🎓 **M.Tech in Big Data Analytics** — SDSF, DAVV  
-💼 **Analyst at Capgemini** | Former **MoE IKS Center Intern**  
+🎓 **M.Tech in Big Data Analytics** — SDSF, DAVV
+💼 **Analyst at Capgemini** | Former **MoE IKS Center Intern**
 🚀 Passionate about **building cloud-native, automated, and data-driven systems**
 
 ---
@@ -19,6 +18,7 @@
 ### 🧰 Tech Stack & Expertise
 
 #### ☁️ Cloud Platforms
+
 <p>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/EC2-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white"/>
@@ -28,6 +28,7 @@
 </p>
 
 #### ⚙️ DevOps & Automation
+
 <p>
   <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -40,6 +41,7 @@
 </p>
 
 #### 🧠 Data & Analytics
+
 <p>
   <img src="https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white"/>
@@ -51,6 +53,7 @@
 </p>
 
 #### 💻 Programming & Frameworks
+
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -64,8 +67,9 @@
 
 ### 🌟 Featured Projects
 
-#### 🧩 Git-Docker-K8s-Terraform-AWS-Jenkins Pipeline  
-**End-to-end CI/CD pipeline** integrating Git, Docker, Kubernetes, Terraform, and AWS.  
+#### 🧩 Git-Docker-K8s-Terraform-AWS-Jenkins Pipeline
+
+**End-to-end CI/CD pipeline** integrating Git, Docker, Kubernetes, Terraform, and AWS.
 Automated build → containerization → deployment to AWS EKS using Jenkins.
 
 <p align="center">
@@ -77,8 +81,9 @@ Automated build → containerization → deployment to AWS EKS using Jenkins.
 
 ---
 
-#### ☸️ Nomad-Terraform-Cluster  
-**Infrastructure automation** for deploying a **Nomad cluster** with Terraform.  
+#### ☸️ Nomad-Terraform-Cluster
+
+**Infrastructure automation** for deploying a **Nomad cluster** with Terraform.
 Includes Prometheus + Grafana for observability and scalability testing.
 
 <p align="center">
@@ -90,8 +95,9 @@ Includes Prometheus + Grafana for observability and scalability testing.
 
 ---
 
-#### 🌐 Hosting a Static Website with EC2 & S3  
-**AWS-based cloud deployment** using Terraform for provisioning EC2 + S3.  
+#### 🌐 Hosting a Static Website with EC2 & S3
+
+**AWS-based cloud deployment** using Terraform for provisioning EC2 + S3.
 Demonstrates cost-efficient, secure, and fault-tolerant architecture.
 
 <p align="center">
@@ -103,7 +109,8 @@ Demonstrates cost-efficient, secure, and fault-tolerant architecture.
 
 ---
 
-#### 🧠 Data Analytics Projects  
+#### 🧠 Data Analytics Projects
+
 Work in **data preprocessing, feature engineering, and ML modeling** using Scikit-learn + Pandas.
 
 <p align="center">
@@ -116,6 +123,7 @@ Work in **data preprocessing, feature engineering, and ML modeling** using Sciki
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=assign-stone&show_icons=true&theme=tokyonight#gh-dark-mode-only" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=assign-stone&show_icons=true&theme=default#gh-light-mode-only" width="48%"/>
@@ -126,15 +134,13 @@ Work in **data preprocessing, feature engineering, and ML modeling** using Sciki
 ---
 
 ### 🌐 Connect With Me
-📧 **joshi.shivani.3892@gmail.com**  
+
+📧 **[joshi.shivani.3892@gmail.com](mailto:joshi.shivani.3892@gmail.com)**
 🔗 [LinkedIn](https://www.linkedin.com/in/shivanijoshi38) | [GitHub](https://github.com/assign-stone)
 
 ---
 
 ### ⚡ Fun Fact
-When I’m not debugging YAML or optimizing CI/CD pipelines,  
-I’m likely visualizing data flows — or breaking monoliths into microservices 😄
----
-```
 
----
+When I’m not debugging YAML or optimizing CI/CD pipelines,
+I’m likely visualizing data flows — or breaking monoliths into microservices 😄
