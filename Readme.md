@@ -73,8 +73,8 @@
 Automated build → containerization → deployment to AWS EKS using Jenkins.
 
 <p align="center">
-  <a href="https://github.com/assign-stone/git-docker-k8s-terraform-aws-jenkins-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=assign-stone&repo=git-docker-k8s-terraform-aws-jenkins-project&theme=tokyonight#gh-dark-mode-only" />
+  <a href="https://github.com/assign-stone/Git-Docker-k8s-terraform-jenkins-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=assign-stone&repo=Git-Docker-k8s-terraform-jenkins-project&theme=tokyonight#gh-dark-mode-only" />
     
   </a>
 </p>
@@ -101,8 +101,8 @@ Includes Prometheus + Grafana for observability and scalability testing.
 Demonstrates cost-efficient, secure, and fault-tolerant architecture.
 
 <p align="center">
-  <a href="https://github.com/assign-stone/hosting-static-website-ec2-s3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=assign-stone&repo=hosting-static-website-ec2-s3&theme=tokyonight#gh-dark-mode-only" />
+  <a href="https://github.com/assign-stone/aws-ec2-s3-static-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=assign-stone&repo=aws-ec2-s3-static-website&theme=tokyonight#gh-dark-mode-only" />
     
   </a>
 </p>
